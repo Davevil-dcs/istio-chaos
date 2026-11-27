@@ -1,0 +1,4 @@
+istio-*/
+*.log
+*.tmp
+.DS_Store
