@@ -1,0 +1,4 @@
+.tools/
+.kube/
+*.log
+.DS_Store
